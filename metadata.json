@@ -1,0 +1,6 @@
+{
+  "name": "VaniLingo - English Vocabulary & Interview Mastery",
+  "description": "Interactive English vocabulary and interview preparation platform tailored to student interests, Indian Knowledge Systems, and academic backgrounds with AI coaching, speech recognition, writing pad, and gamified progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

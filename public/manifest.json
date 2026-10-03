@@ -1,0 +1,17 @@
+{
+  "short_name": "VaniLingo",
+  "name": "VaniLingo - English Vocabulary & Interview Mastery",
+  "description": "Interactive English vocabulary and interview preparation platform tailored to Indian Knowledge Systems and academic backgrounds.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "display": "standalone",
+  "orientation": "portrait"
+}
